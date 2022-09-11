@@ -1,0 +1,1 @@
+streamlit run c:\Users\Kerem\Desktop\K\Recomood\app.py
